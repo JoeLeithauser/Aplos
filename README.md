@@ -15,9 +15,20 @@ I built this application in Palantir because it was very time consuming to downl
 
 ### Installing
 
-* The program should not need installation, only a Palantir login and access to the project
-* Modifications to the data should be made in Pipeline Builder should result in a new or changed Ontology
-* Application modifications should be made in Workshop
+After upload, you'll need to install the package in your environment. For detailed instructions, see the official Palantir documentation.
+The installation process has four main stages:
+* General Setup
+   * Configure package name
+   * Select installation location
+* Input Configuration
+   * Configure any required inputs. If no inputs are needed, proceed to next step
+   * Check project documentation for specific input requirements
+* Content Review
+   * Review resources to be installed such as Developer Console, the Ontology, and Functions
+* Validation
+   * System checks for any configuration errors
+   * Resolve any flagged issues
+   * Initiate installation
 
 ### Executing program
 
@@ -33,9 +44,8 @@ No known issues currently.
 
 ## Authors
 
-Joe Leithauser, joe@applosinnovation.com
-Ian Ferre, Ian@applosinnovation.com
-
+Joe Leithauser, joe@aplosinnovation.com
+@JoeLeithauser
 
 ## Version History
 
